@@ -109,7 +109,6 @@
 				02D8E273243B7F41004E3023 /* LaunchScreen.storyboard */,
 				02D8E276243B7F41004E3023 /* Info.plist */,
 				02D8E28D243B8028004E3023 /* MyIntents.intentdefinition */,
-				024AF683243B82C0009C829E /* SomaHandler.swift */,
 			);
 			path = SiriExample;
 			sourceTree = "<group>";
@@ -118,6 +117,7 @@
 			isa = PBXGroup;
 			children = (
 				02D8E282243B7F82004E3023 /* IntentHandler.swift */,
+				024AF683243B82C0009C829E /* SomaHandler.swift */,
 				02D8E284243B7F82004E3023 /* Info.plist */,
 			);
 			path = SiriExampleIntent;
